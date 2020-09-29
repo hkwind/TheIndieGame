@@ -8,13 +8,13 @@
     # combat feature (darkest dungeon like?, minion waves, elite boss for every adventure/run)
     # roll dice implementation (in combat, research, relic use)
     # cruel combat (non linear route, can choose easy/challenging route, can change difficulty of battle during in camp/not)
-    # data, might be in combat, not showing
+    # data, might be in combat, not showing + story generating to explain history/combat 
     
     # thorough customization on starting character based on some fixed choice (personality, capability), new will be unlocked through gameplay
     # colony making (base building, improve quality of life, research advancement); base raids occurs regularly
     # extra boss-specific ability/item to obtain only in special way
     
-    #
+    # 
     
     
     
