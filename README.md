@@ -14,7 +14,13 @@
     # colony making (base building, improve quality of life, research advancement); base raids occurs regularly
     # extra boss-specific ability/item to obtain only in special way
     
-    # 
+    # battle screen (start from team of 3, expand to 6/7 max)
+             m  b  m        (far)
+                vs
+            o  o  o        (close)  2 lanes
+              o  o
+    # classes (melee, ranged - a skill tree each)
+    # implement level for each colonist
     
     
     
